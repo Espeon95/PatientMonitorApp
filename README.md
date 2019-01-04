@@ -1,4 +1,4 @@
-Patient Monitor App
+#Patient Monitor App
 
 Purpose
 =======
@@ -6,9 +6,11 @@ This program demonstrates modularity which is a key concept for a sensor/monitor
 Specifically, this program has the following sensors:
  - heart rate
  - diastolic and systolic blood pressure
- Each sensor is depicted graphically by its display widget. 
- Each display widget is uniquely different to allow for exploration in different graphical representations.
- In the future, I look forward to adding the following sensors:
+
+Each sensor is depicted graphically by its display widget. 
+Each display widget is uniquely different to allow for exploration in different graphical representations.
+
+In the future, I look forward to adding the following sensors:
  - temperature
  - oxygen saturation
  - Respiration
