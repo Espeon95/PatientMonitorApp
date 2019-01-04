@@ -1,4 +1,4 @@
-#Patient Monitor App
+Patient Monitor App
 
 Purpose
 =======
