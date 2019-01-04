@@ -13,7 +13,7 @@ Each display widget is uniquely different to allow for exploration in different 
 In the future, I look forward to adding the following sensors:
  - temperature
  - oxygen saturation
- - Respiration
+ - respiration
 
 Compile
 =======
